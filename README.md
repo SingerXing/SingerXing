@@ -51,6 +51,39 @@ Eight Python projects spanning web crawling, Flask applications and A/B testing,
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Machine Learning Optimization
+
+**Stealth · Machine Learning Projects**
+
+Classification pipelines using logistic regression and TF-IDF–LinearSVC, with comparisons of grid, random, and Bayesian search. Includes cross-validation, test evaluation, runtime analysis, and revisions guided by mentor feedback.
+
+**Python · scikit-learn · Ray Tune**
+
+[Explore the projects →](https://github.com/SingerXing/machine-learning-projects-in-stealth)
+
+[Logistic regression](https://github.com/SingerXing/machine-learning-projects-in-stealth/tree/main/revised) · [Text classification](https://github.com/SingerXing/machine-learning-projects-in-stealth/tree/main/revised/task-2210)
+
+</td>
+<td width="50%" valign="top">
+
+### Decision-Directed Evidence Acquisition
+
+**KnowYi · Research Project**
+
+A Python prototype for choosing which inspection to request next and when to stop or defer. Implements five decision strategies, with reproducible synthetic experiments examining uncertainty, budgets, prerequisites, and shared setup costs.
+
+**Python · Bayesian Decision-Making · Experimental Design**
+
+[View the project archive →](https://github.com/SingerXing/machine-learning-projects-in-knowyi)
+
+*Private repository · access required.*
+
+</td>
+</tr>
 </table>
 
 ## Tools I use
