@@ -2,7 +2,14 @@
   <img src="assets/profile-header.svg?v=fr-en-2" alt="Singer Xing — Mathematics and Data Science at the University of Wisconsin–Madison" width="100%">
 </p>
 
-I study **mathematics and data science at the University of Wisconsin–Madison**. My work brings together mathematical modeling, machine learning, and practical data analysis.
+I study **mathematics and data science at the University of Wisconsin–Madison**.
+
+- **Mathematics:** I love the rigorous logic behind mathematical theory and how equations and functions become foundations for discoveries, technologies, and new ways of understanding the world.
+- **Data science:** I enjoy working through complicated data and exploring how models can help explain what we observe and anticipate what comes next.
+- **Finance:** I’m curious about how public policy and consumer behavior influence financial decisions, and how credit affects people and businesses.
+- **Always learning:** An aspiring collector of professional licenses and certifications—there’s always something new I want to learn.
+- **Travel:** I hope to explore every corner of the world.
+- **Observation:** I enjoy observing people and animals and thinking about the patterns behind their social behavior.
 
 ## Selected work
 
@@ -43,10 +50,11 @@ Eight Python projects spanning web crawling, Flask applications and A/B testing,
 
 ## Tools I use
 
-**Modeling & learning** — Python, PyTorch, NumPy, scikit-learn  
-**Data & visualization** — pandas, Matplotlib  
+**Modeling & learning** — Python, PyTorch, NumPy, scikit-learn  
+**Data & visualization** — pandas, Matplotlib  
 **Web & data collection** — Flask, Selenium
 
 ---
 
 [LinkedIn](https://www.linkedin.com/in/singer-xing-08390935b/) · [University email](mailto:mxing7@wisc.edu)
+
