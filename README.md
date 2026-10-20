@@ -59,3 +59,6 @@ Eight Python projects spanning web crawling, Flask applications and A/B testing,
 **Data & visualization** — pandas, Matplotlib  
 **Web & data collection** — Flask, Selenium
 
+---
+
+[LinkedIn](https://www.linkedin.com/in/mochi-xing-08390935b/)
