@@ -4,12 +4,17 @@
 
 I study **mathematics and data science at the University of Wisconsin–Madison**.
 
+### Academic Interests
+
 - **Mathematics:** I love the rigorous logic behind mathematical theory and how equations and functions become foundations for discoveries, technologies, and new ways of understanding the world.
-- **Data science:** I enjoy working through complicated data and exploring how models can help explain what we observe and anticipate what comes next.
+- **Data Science:** I enjoy working through complicated data and exploring how models can help explain what we observe and anticipate what comes next.
 - **Finance:** I’m curious about how public policy and consumer behavior influence financial decisions, and how credit affects people and businesses.
-- **Always learning:** An aspiring collector of professional licenses and certifications—there’s always something new I want to learn.
-- **Travel:** I hope to explore every corner of the world.
-- **Observation:** I enjoy observing people and animals and thinking about the patterns behind their social behavior.
+
+### More About Me
+
+- **Certification Hunter:** I’m always looking for something new to learn, with a growing wish list of professional licenses and certifications to pursue.
+- **Traveler:** I hope to explore every corner of the world and experience different ways of life.
+- **Observer:** I enjoy watching how people and animals interact and trying to understand the patterns behind their behavior.
 
 ## Selected work
 
