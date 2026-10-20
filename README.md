@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg?v=fr-en-1" alt="Singer Xing — Mathematics and Data Science at the University of Wisconsin–Madison" width="100%">
+  <img src="assets/profile-header.svg?v=fr-en-2" alt="Singer Xing — Mathematics and Data Science at the University of Wisconsin–Madison" width="100%">
 </p>
 
 I study **mathematics and data science at the University of Wisconsin–Madison**. My work brings together mathematical modeling, machine learning, and practical data analysis.
