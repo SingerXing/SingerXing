@@ -88,9 +88,11 @@ A Python prototype for choosing which inspection to request next and when to sto
 
 ## Tools I use
 
-**Modeling & learning** — Python, PyTorch, NumPy, scikit-learn  
-**Data & visualization** — pandas, Matplotlib  
-**Web & data collection** — Flask, Selenium
+**Modeling & learning** — Python, PyTorch, NumPy, scikit-learn  
+**Model optimization** — Ray Tune, Hyperopt  
+**Data & visualization** — pandas, Matplotlib  
+**Web & data collection** — Flask, Selenium  
+**Development environment** — Jupyter Notebook
 
 ---
 
