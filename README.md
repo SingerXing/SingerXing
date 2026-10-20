@@ -59,7 +59,3 @@ Eight Python projects spanning web crawling, Flask applications and A/B testing,
 **Data & visualization** — pandas, Matplotlib  
 **Web & data collection** — Flask, Selenium
 
----
-
-[LinkedIn](https://www.linkedin.com/in/singer-xing-08390935b/) · [University email](mailto:mxing7@wisc.edu)
-
