@@ -86,13 +86,15 @@ A Python prototype for choosing which inspection to request next and when to sto
 </tr>
 </table>
 
-## Tools I use
+## Tools & methods
 
 **Modeling & learning** — Python, PyTorch, NumPy, scikit-learn  
 **Model optimization** — Ray Tune, Hyperopt  
 **Data & visualization** — pandas, Matplotlib  
 **Web & data collection** — Flask, Selenium  
-**Development environment** — Jupyter Notebook
+**Development tools** — Jupyter Notebook, Git  
+**Testing** — Python unittest  
+**Decision methods** — Bayesian updating, two-step lookahead, sensitivity analysis
 
 ---
 
