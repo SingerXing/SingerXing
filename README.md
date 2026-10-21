@@ -98,4 +98,4 @@ A Python prototype for choosing which inspection to request next and when to sto
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/mochi-xing-08390935b/)
+[LinkedIn](https://www.linkedin.com/in/singer-xing-08390935b/) · [Résumé](https://github.com/SingerXing/resume-and-cv-public/blob/main/resume/Singer-Xing-Resume-redacted.pdf) · [Transcripts](https://github.com/SingerXing/academic-records#transcripts)
