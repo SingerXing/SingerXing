@@ -90,11 +90,13 @@ A Python prototype for choosing which inspection to request next and when to sto
 
 ## Tools & methods
 
-**Modeling & learning** — Python, PyTorch, NumPy, scikit-learn  
+**Languages** — Python, R, SQL (advanced) · MATLAB  
+**Modeling & learning** — PyTorch, NumPy, scikit-learn, mathematical modeling  
 **Model optimization** — Ray Tune, Hyperopt  
-**Data & visualization** — pandas, Matplotlib  
-**Web & data collection** — Flask, Selenium  
-**Development tools** — Jupyter Notebook, Git  
+**Data & visualization** — pandas, Matplotlib, data cleaning, dashboard development, Excel (advanced)  
+**Experimentation** — A/B testing  
+**Web & data collection** — Flask, Selenium, web scraping  
+**Development tools** — Jupyter Notebook, RStudio, Git  
 **Testing** — Python unittest  
 **Decision methods** — Bayesian updating, two-step lookahead, sensitivity analysis
 
