@@ -94,6 +94,7 @@ A Python prototype for choosing which inspection to request next and when to sto
 
 **Programming** — Python, R, SQL, MATLAB  
 **Machine learning** — PyTorch, scikit-learn, Ray Tune, Hyperopt  
-**Data** — NumPy, pandas, Matplotlib, Excel, Selenium  
-**Tools** — Git, Jupyter, RStudio, Flask  
+**Data** — NumPy, pandas, Matplotlib, Excel  
+**Web scraping** — Selenium, BeautifulSoup, requests, BFS/DFS crawling  
+**Tools** — MySQL, Git, Jupyter, RStudio, Flask  
 **Methods** — Mathematical modeling, Bayesian inference, A/B testing, sensitivity analysis, hyperparameter tuning
