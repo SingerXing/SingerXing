@@ -18,6 +18,8 @@ I study **mathematics and data science at the University of Wisconsin–Madison*
 - **Traveler:** I hope to explore every corner of the world and experience different ways of life.
 - **Observer:** I enjoy watching how people and animals interact and trying to understand the patterns behind their behavior.
 
+[LinkedIn](https://www.linkedin.com/in/mochi-xing-08390935b/) · [Résumé](https://github.com/SingerXing/resume-and-cv-public/blob/main/resume/Singer-Xing-Resume-redacted.pdf) · [Transcripts](https://github.com/SingerXing/academic-records#transcripts) · [Master's applications](https://github.com/SingerXing/masters-applications) · [Portfolio](https://github.com/SingerXing/portfolio)
+
 ## Selected work
 
 <table>
@@ -90,16 +92,11 @@ A Python prototype for choosing which inspection to request next and when to sto
 
 ## Tools & methods
 
-**Languages** — Python, R, SQL (advanced) · MATLAB  
-**Modeling & learning** — PyTorch, NumPy, scikit-learn, mathematical modeling  
+**Modeling & learning** — Python, PyTorch, NumPy, scikit-learn  
 **Model optimization** — Ray Tune, Hyperopt  
-**Data & visualization** — pandas, Matplotlib, data cleaning, dashboard development, Excel (advanced)  
-**Experimentation** — A/B testing  
-**Web & data collection** — Flask, Selenium, web scraping  
-**Development tools** — Jupyter Notebook, RStudio, Git  
+**Data & visualization** — pandas, Matplotlib  
+**Web & data collection** — Flask, Selenium  
+**Development tools** — Jupyter Notebook, Git  
 **Testing** — Python unittest  
 **Decision methods** — Bayesian updating, two-step lookahead, sensitivity analysis
 
----
-
-[LinkedIn](https://www.linkedin.com/in/mochi-xing-08390935b/) · [Résumé](https://github.com/SingerXing/resume-and-cv-public/blob/main/resume/Singer-Xing-Resume-redacted.pdf) · [Transcripts](https://github.com/SingerXing/academic-records#transcripts) · [Master's applications](https://github.com/SingerXing/masters-applications) · [Portfolio](https://github.com/SingerXing/portfolio)
