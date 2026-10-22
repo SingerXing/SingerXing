@@ -4,6 +4,8 @@
 
 I study **mathematics and data science at the University of Wisconsin–Madison**.
 
+> **For my professors:** I'm applying to master's programs for the 2026–27 cycle. [Track my applications →](https://github.com/SingerXing/masters-applications) Deadlines, program notes and status updates, all in one place.
+
 ### Academic Interests
 
 - **Mathematics:** I love the rigorous logic behind mathematical theory and how equations and functions become foundations for discoveries, technologies, and new ways of understanding the world.
@@ -98,4 +100,4 @@ A Python prototype for choosing which inspection to request next and when to sto
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/mochi-xing-08390935b/) · [Résumé](https://github.com/SingerXing/resume-and-cv-public/blob/main/resume/Singer-Xing-Resume-redacted.pdf) · [Transcripts](https://github.com/SingerXing/academic-records#transcripts) · [Portfolio](https://github.com/SingerXing/portfolio)
+[LinkedIn](https://www.linkedin.com/in/mochi-xing-08390935b/) · [Résumé](https://github.com/SingerXing/resume-and-cv-public/blob/main/resume/Singer-Xing-Resume-redacted.pdf) · [Transcripts](https://github.com/SingerXing/academic-records#transcripts) · [Master's applications](https://github.com/SingerXing/masters-applications) · [Portfolio](https://github.com/SingerXing/portfolio)
