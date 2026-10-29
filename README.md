@@ -4,7 +4,7 @@
 
 I study **mathematics and data science at the University of Wisconsin–Madison**.
 
-> **For my professors:** I'm applying to master's programs for the 2026–27 cycle. [Track my applications →](https://github.com/SingerXing/masters-applications) Deadlines, program notes and status updates, all in one place.
+> **For my professors:** [Academic background & project guide →](https://github.com/SingerXing/academic-background) A concise overview of my studies, research, and projects to support recommendation letters.
 
 ### Academic Interests
 
@@ -18,7 +18,7 @@ I study **mathematics and data science at the University of Wisconsin–Madison*
 - **Traveler:** I hope to explore every corner of the world and experience different ways of life.
 - **Observer:** I enjoy watching how people and animals interact and trying to understand the patterns behind their behavior.
 
-[LinkedIn](https://www.linkedin.com/in/mochi-xing-08390935b/) · [Résumé](https://github.com/SingerXing/resume-and-cv-public/blob/main/resume/Singer-Xing-Resume-redacted.pdf) · [Transcripts](https://github.com/SingerXing/academic-records#transcripts) · [Master's applications](https://github.com/SingerXing/masters-applications) · [Portfolio](https://github.com/SingerXing/portfolio)
+[LinkedIn](https://www.linkedin.com/in/mochi-xing-08390935b/) · [Résumé](https://github.com/SingerXing/resume-and-cv-public/blob/main/resume/Singer-Xing-Resume-redacted.pdf) · [Transcripts](https://github.com/SingerXing/academic-records#transcripts) · [Academic guide](https://github.com/SingerXing/academic-background) · [Portfolio](https://github.com/SingerXing/portfolio)
 
 ## Selected work
 
